@@ -7,9 +7,8 @@ This is where I documented my first Project while learning data analysis with th
 ##Data Sources
 
 ##Tools Used:
-- MS Excel [Download Here](https://Microsoft.com)
-. Data Cleaning
-. Data Validation 
+- MS Excel [Download Here](https://Microsoft.com)  * Data Cleaning
+* Data Validation 
 - SQL Management System
   ```sql
   select * from salary
