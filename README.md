@@ -11,4 +11,8 @@ This is where I documented my first Project while learning data analysis with th
 . Data Cleaning
 . Data Validation 
 - SQL Management System
+  ```sql
+  select * from salary
+  where salary = 200560.934
+  ```
 - Github: portfolio creation 
